@@ -1,6 +1,11 @@
 # Reinforcement-Learning-Pedestrian-Crossing
 Comparing the learning performance of elementary and exceptional students with artificial intelligence. Artificial intelligence learning to cross the street and pedestrian area.
 
+
+## Compare Result
+Thus, it has been determined that the learning level of this subject is faster for elementary students than artificial intelligence, but less for exceptional students.
+
+
 ## Result Video
 [Screencast from 23-06-04 03:04:51.webm](https://github.com/AmirRezaFarokhy/Reinforcement-Learning-Pedestrian-Crossing/assets/113052872/b24e0dc7-6fd0-45dc-a8d0-c0898a9ed5f4)
 
