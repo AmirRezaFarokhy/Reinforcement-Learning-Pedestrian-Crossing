@@ -12,6 +12,7 @@ Thus, it has been determined that the learning level of this subject is faster f
 
 ## Q_Learning
 The q-learning formula is as follows:
+
 Formula:
 ![screen2](https://user-images.githubusercontent.com/113052872/191721459-c5197461-554f-4fd1-a88b-ae04b88c21b7.jpg)
 
