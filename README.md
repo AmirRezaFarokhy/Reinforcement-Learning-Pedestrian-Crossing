@@ -20,7 +20,6 @@ Formula:
 Running `Q-learning-python` requires:
 * Python 3.8 (tested under Python 3.10.4)
 * numpy 1.22.3
-* PIL 9.1.0
 * imutils 0.5.4
 * cv2 4.6.0
 
